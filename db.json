@@ -1,13 +1,12 @@
 [{
-id: 1, // Unique identifier for the course
+id: 1,
 name: 'Introduction to React Native',
-instructor: 'John Doe', // Name of the course instructor
+instructor: 'John Doe',
 description: 'Learn the basics of React Native development and
 build your first mobile app.',
-enrollmentStatus: 'Open', // Can be 'Open', 'Closed', or 'In
-Progress'
-thumbnail: 'your.image.here', //Link to the course thumbnail
-duration: '8 weeks', // Duration of the course
+enrollmentStatus: 'Open',
+thumbnail: 'your.image.here',
+duration: '8 weeks',
 schedule: 'Tuesdays and Thursdays, 6:00 PM - 8:00 PM',
 location: 'Online',
 prerequisites: ['Basic JavaScript knowledge', 'Familiarity with
