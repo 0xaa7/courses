@@ -1,4 +1,4 @@
-{
+[{
 id: 1, // Unique identifier for the course
 name: 'Introduction to React Native',
 instructor: 'John Doe', // Name of the course instructor
@@ -37,4 +37,4 @@ email: 'alice@example.com',
 id: 102,
 name: 'Bob Smith',
 email: 'bob@example.com',
-},
+}]
